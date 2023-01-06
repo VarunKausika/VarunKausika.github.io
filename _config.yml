@@ -13,7 +13,7 @@
 title: My Portfolio Website
 
 # theme
-theme: minima
+remote_theme: pages-themes/tactile@v0.2.0
 
 # Your name to show in the footer
 author: Varun Kausika
@@ -282,9 +282,10 @@ author: Varun Kausika
 #   - screenshot.png
 #   - docs/
 
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-sitemap
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme 
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
