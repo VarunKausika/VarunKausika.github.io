@@ -12,6 +12,9 @@
 # Name of website
 title: My Portfolio Website
 
+# theme
+theme: minima
+
 # Your name to show in the footer
 author: Varun Kausika
 
