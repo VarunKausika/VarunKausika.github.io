@@ -23,13 +23,14 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Data Science Capstone Intern
+    - title: Data Science Capstone Project
       institution: Dell Technologies
       year: Jan 2023 - Present
       description:
         - Capacity Planning - Working as a part of the Customer Financial Services team to dynamically optimize levers such as
           team meeting hours, outages and overtime hours to match 26 week forecasted order volumes against agents and
           resources required to improve operational efficiency and semiannual staffing.
+          
     - title: Process Automation Intern
       institution: FedEx
       year: June 2021 - Oct 2021
